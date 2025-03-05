@@ -1,0 +1,6 @@
+﻿  Bank Management System.cpp
+C:\Users\MAX\Desktop\c++\Bank Management System\Bank Management System\Bank Management System.cpp(12,15): warning C4129: ".": нераспознанная escape-последовательность символов
+  Operations.cpp
+  Создание кода...
+C:\Users\MAX\Desktop\c++\Bank Management System\Bank Management System\Bank Management System.cpp(60,1): warning C4717: op: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+  Bank Management System.vcxproj -> C:\Users\MAX\Desktop\c++\Bank Management System\x64\Debug\Bank Management System.exe
